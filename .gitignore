@@ -1,6 +1,6 @@
 
-./bin
-./include
-./local
-./lib
+bin
+include
+local
+lib
 pip-selfcheck.json
